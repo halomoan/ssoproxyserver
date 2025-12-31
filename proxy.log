@@ -1,0 +1,1545 @@
+[INFO] 2025-12-30T05:26:53.054Z - Forward proxy server started on 0.0.0.0:3128
+[WARN] 2025-12-30T05:28:09.425Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:28:09.427Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:28:09.429Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:28:09.430Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:28:09.432Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:28:09.434Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:28:09.435Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:28:09.613Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:28:16.221Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T05:28:49.620Z - Shutting down proxy server...
+[INFO] 2025-12-30T05:28:53.499Z - Forward proxy server started on 0.0.0.0:3128
+[WARN] 2025-12-30T05:29:17.402Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:29:17.405Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:29:19.631Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:29:22.069Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:29:22.887Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:29:23.166Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:29:23.167Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:29:23.650Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:29:23.651Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:29:23.653Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:29:23.704Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T05:29:31.222Z - HTTPS CONNECT: 127.0.0.1 -> umsgrpsubacc-14qguefp.ap21.sls.cloud.sap:443
+[INFO] 2025-12-30T05:30:48.187Z - Forward proxy server started on 0.0.0.0:3128
+[INFO] 2025-12-30T05:30:53.510Z - Shutting down proxy server...
+[INFO] 2025-12-30T05:31:16.169Z - Forward proxy server started on 0.0.0.0:3128
+[WARN] 2025-12-30T05:31:25.439Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:31:25.443Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:31:25.444Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:31:25.446Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:31:25.447Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:31:28.479Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:31:28.521Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:31:28.532Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:31:28.681Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:31:28.686Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:31:30.929Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:31:33.082Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:31:33.084Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:31:33.098Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:31:33.126Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T05:31:39.537Z - HTTPS CONNECT: 127.0.0.1 -> gator.volces.com:443
+[INFO] 2025-12-30T05:31:39.542Z - HTTPS CONNECT: 127.0.0.1 -> chat.deepseek.com:443
+[INFO] 2025-12-30T05:31:39.543Z - HTTPS CONNECT: 127.0.0.1 -> openway.deepseeksvc.com:443
+[INFO] 2025-12-30T05:31:39.543Z - HTTPS CONNECT: 127.0.0.1 -> gator.volces.com:443
+[INFO] 2025-12-30T05:31:39.544Z - HTTPS CONNECT: 127.0.0.1 -> openway.deepseeksvc.com:443
+[WARN] 2025-12-30T05:31:43.282Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T05:31:45.880Z - HTTPS CONNECT: 127.0.0.1 -> www.google.com:443
+[INFO] 2025-12-30T05:31:45.885Z - HTTPS CONNECT: 127.0.0.1 -> gator.volces.com:443
+[INFO] 2025-12-30T05:31:50.746Z - HTTPS CONNECT: 127.0.0.1 -> ayisqegkn.accounts.cloud.sap:443
+[INFO] 2025-12-30T05:31:50.747Z - HTTPS CONNECT: 127.0.0.1 -> ayisqegkn.accounts.cloud.sap:443
+[WARN] 2025-12-30T05:31:55.446Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:31:55.447Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:31:55.448Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:31:55.480Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T05:31:57.746Z - HTTPS CONNECT: 127.0.0.1 -> www.google.com:443
+[WARN] 2025-12-30T05:31:57.747Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T05:31:58.165Z - HTTPS CONNECT: 127.0.0.1 -> c.pub.network:443
+[INFO] 2025-12-30T05:32:02.421Z - HTTPS CONNECT: 127.0.0.1 -> umsgrpsubacc-14qguefp.ap21.sls.cloud.sap:443
+[INFO] 2025-12-30T05:32:02.423Z - HTTPS CONNECT: 127.0.0.1 -> ui5.sap.com:443
+[INFO] 2025-12-30T05:32:02.585Z - HTTPS CONNECT: 127.0.0.1 -> ayisqegkn.accounts.cloud.sap:443
+[INFO] 2025-12-30T05:32:02.586Z - HTTPS CONNECT: 127.0.0.1 -> www.bing.com:443
+[INFO] 2025-12-30T05:32:02.594Z - HTTPS CONNECT: 127.0.0.1 -> ayisqegkn.accounts.cloud.sap:443
+[INFO] 2025-12-30T05:32:16.175Z - HTTPS CONNECT: 127.0.0.1 -> openway.deepseeksvc.com:443
+[INFO] 2025-12-30T05:32:25.437Z - HTTPS CONNECT: 127.0.0.1 -> edge.microsoft.com:443
+[INFO] 2025-12-30T05:32:26.677Z - HTTPS CONNECT: 127.0.0.1 -> static.deepseek.com:443
+[WARN] 2025-12-30T05:32:41.389Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:32:41.395Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:32:41.401Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:32:46.733Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:32:46.934Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:32:47.846Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:32:52.249Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:32:52.269Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:32:52.275Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:32:52.276Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:32:52.305Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:32:52.309Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:32:53.279Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:32:55.327Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T05:32:59.469Z - HTTPS CONNECT: 127.0.0.1 -> umsgrpsubacc-14qguefp.ap21.sls.cloud.sap:443
+[INFO] 2025-12-30T05:32:59.474Z - HTTPS CONNECT: 127.0.0.1 -> umsgrpsubacc-14qguefp.ap21.sls.cloud.sap:443
+[WARN] 2025-12-30T05:32:59.476Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T05:32:59.557Z - HTTPS CONNECT: 127.0.0.1 -> ayisqegkn.accounts.cloud.sap:443
+[INFO] 2025-12-30T05:32:59.559Z - HTTPS CONNECT: 127.0.0.1 -> ayisqegkn.accounts.cloud.sap:443
+[WARN] 2025-12-30T05:32:59.560Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T05:32:59.631Z - HTTPS CONNECT: 127.0.0.1 -> ayisqegkn.accounts.cloud.sap:443
+[INFO] 2025-12-30T05:32:59.689Z - HTTPS CONNECT: 127.0.0.1 -> ayisqegkn.accounts.cloud.sap:443
+[INFO] 2025-12-30T05:32:59.690Z - HTTPS CONNECT: 127.0.0.1 -> ayisqegkn.accounts.cloud.sap:443
+[INFO] 2025-12-30T05:32:59.690Z - HTTPS CONNECT: 127.0.0.1 -> ayisqegkn.accounts.cloud.sap:443
+[INFO] 2025-12-30T05:32:59.691Z - HTTPS CONNECT: 127.0.0.1 -> ayisqegkn.accounts.cloud.sap:443
+[WARN] 2025-12-30T05:33:08.694Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:33:18.305Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T05:33:28.769Z - HTTPS CONNECT: 127.0.0.1 -> beacons.gvt2.com:443
+[WARN] 2025-12-30T05:33:35.266Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:34:10.390Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:34:10.649Z - Authentication failed for 127.0.0.1
+[ERROR] 2025-12-30T05:34:12.642Z - Client socket error: read ECONNRESET
+[WARN] 2025-12-30T05:34:12.875Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:34:12.877Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:34:12.879Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:34:24.476Z - Authentication failed for 127.0.0.1
+[ERROR] 2025-12-30T05:34:29.260Z - Proxy socket error for edge.microsoft.com:443: read ECONNRESET
+[INFO] 2025-12-30T05:34:45.446Z - HTTPS CONNECT: 127.0.0.1 -> accounts.google.com:443
+[INFO] 2025-12-30T05:34:45.511Z - HTTPS CONNECT: 127.0.0.1 -> beacons.gcp.gvt2.com:443
+[WARN] 2025-12-30T05:34:47.349Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:34:52.480Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:34:52.717Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:34:53.446Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:34:57.073Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:34:57.074Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:34:57.076Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:34:57.099Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:34:57.100Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:34:58.080Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:35:03.324Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:35:03.331Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:35:03.331Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:35:03.332Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T05:35:07.595Z - HTTPS CONNECT: 127.0.0.1 -> umsgrpsubacc-14qguefp.ap21.sls.cloud.sap:443
+[INFO] 2025-12-30T05:35:07.601Z - HTTPS CONNECT: 127.0.0.1 -> umsgrpsubacc-14qguefp.ap21.sls.cloud.sap:443
+[WARN] 2025-12-30T05:35:07.603Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T05:35:07.678Z - HTTPS CONNECT: 127.0.0.1 -> ayisqegkn.accounts.cloud.sap:443
+[INFO] 2025-12-30T05:35:07.681Z - HTTPS CONNECT: 127.0.0.1 -> ayisqegkn.accounts.cloud.sap:443
+[WARN] 2025-12-30T05:35:07.682Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T05:35:07.756Z - HTTPS CONNECT: 127.0.0.1 -> ayisqegkn.accounts.cloud.sap:443
+[INFO] 2025-12-30T05:35:07.819Z - HTTPS CONNECT: 127.0.0.1 -> ayisqegkn.accounts.cloud.sap:443
+[INFO] 2025-12-30T05:35:07.819Z - HTTPS CONNECT: 127.0.0.1 -> ayisqegkn.accounts.cloud.sap:443
+[INFO] 2025-12-30T05:35:07.819Z - HTTPS CONNECT: 127.0.0.1 -> ayisqegkn.accounts.cloud.sap:443
+[INFO] 2025-12-30T05:35:07.821Z - HTTPS CONNECT: 127.0.0.1 -> ayisqegkn.accounts.cloud.sap:443
+[WARN] 2025-12-30T05:35:18.332Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T05:35:22.703Z - HTTPS CONNECT: 127.0.0.1 -> beacons4.gvt2.com:443
+[INFO] 2025-12-30T05:35:22.764Z - HTTPS CONNECT: 127.0.0.1 -> e2c42.gcp.gvt2.com:443
+[WARN] 2025-12-30T05:35:24.795Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T05:35:25.936Z - HTTPS CONNECT: 127.0.0.1 -> beacons5.gvt2.com:443
+[WARN] 2025-12-30T05:35:28.061Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T05:35:34.687Z - HTTPS CONNECT: 127.0.0.1 -> ayisqegkn.accounts.cloud.sap:443
+[INFO] 2025-12-30T05:35:34.688Z - HTTPS CONNECT: 127.0.0.1 -> ayisqegkn.accounts.cloud.sap:443
+[WARN] 2025-12-30T05:35:34.689Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T05:35:34.796Z - HTTPS CONNECT: 127.0.0.1 -> login.microsoftonline.com:443
+[INFO] 2025-12-30T05:35:57.715Z - Forward proxy server started on 0.0.0.0:3128
+[WARN] 2025-12-30T05:35:57.743Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:35:57.788Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:35:57.977Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:35:58.024Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T05:35:58.168Z - HTTPS CONNECT: 127.0.0.1 -> c.pub.network:443
+[INFO] 2025-12-30T05:35:58.249Z - HTTPS CONNECT: 127.0.0.1 -> beacons.gcp.gvt2.com:443
+[INFO] 2025-12-30T05:36:05.516Z - HTTPS CONNECT: 127.0.0.1 -> teams.microsoft.com:443
+[INFO] 2025-12-30T05:36:05.682Z - HTTPS CONNECT: 127.0.0.1 -> augloop.office.com:443
+[INFO] 2025-12-30T05:36:05.691Z - HTTPS CONNECT: 127.0.0.1 -> api.flightproxy.teams.microsoft.com:443
+[ERROR] 2025-12-30T05:36:05.889Z - Client socket error: write ECONNABORTED
+[WARN] 2025-12-30T05:36:06.419Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:36:08.671Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:36:09.430Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:36:09.702Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T05:36:09.703Z - HTTPS CONNECT: 127.0.0.1 -> teams.events.data.microsoft.com:443
+[ERROR] 2025-12-30T05:36:10.717Z - Client socket error: read ECONNRESET
+[WARN] 2025-12-30T05:36:11.846Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:36:11.852Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:36:11.855Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T05:36:11.856Z - HTTPS CONNECT: 127.0.0.1 -> teams.events.data.microsoft.com:443
+[WARN] 2025-12-30T05:36:13.245Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T05:36:13.249Z - HTTPS CONNECT: 127.0.0.1 -> teams.events.data.microsoft.com:443
+[INFO] 2025-12-30T05:36:13.431Z - HTTPS CONNECT: 127.0.0.1 -> config.teams.microsoft.com:443
+[INFO] 2025-12-30T05:36:13.525Z - HTTPS CONNECT: 127.0.0.1 -> augloop.office.com:443
+[INFO] 2025-12-30T05:36:13.556Z - HTTPS CONNECT: 127.0.0.1 -> augloop.office.com:443
+[INFO] 2025-12-30T05:36:14.149Z - HTTPS CONNECT: 127.0.0.1 -> teams.microsoft.com:443
+[INFO] 2025-12-30T05:36:14.329Z - HTTPS CONNECT: 127.0.0.1 -> go.trouter.teams.microsoft.com:443
+[INFO] 2025-12-30T05:36:14.404Z - HTTPS CONNECT: 127.0.0.1 -> as-api.asm.skype.com:443
+[INFO] 2025-12-30T05:36:14.406Z - HTTPS CONNECT: 127.0.0.1 -> as-prod.asyncgw.teams.microsoft.com:443
+[INFO] 2025-12-30T05:36:14.463Z - HTTPS CONNECT: 127.0.0.1 -> as-api.asm.skype.com:443
+[INFO] 2025-12-30T05:36:14.468Z - HTTPS CONNECT: 127.0.0.1 -> as-prod.asyncgw.teams.microsoft.com:443
+[INFO] 2025-12-30T05:36:14.720Z - HTTPS CONNECT: 127.0.0.1 -> teams.events.data.microsoft.com:443
+[INFO] 2025-12-30T05:36:14.778Z - HTTPS CONNECT: 127.0.0.1 -> pub-ent-jpwe-03-t.trouter.teams.microsoft.com:443
+[INFO] 2025-12-30T05:36:15.062Z - HTTPS CONNECT: 127.0.0.1 -> pagead2.googlesyndication.com:443
+[INFO] 2025-12-30T05:36:15.069Z - HTTPS CONNECT: 127.0.0.1 -> teams.microsoft.com:443
+[INFO] 2025-12-30T05:36:15.675Z - HTTPS CONNECT: 127.0.0.1 -> res.cdn.office.net:443
+[WARN] 2025-12-30T05:36:17.342Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:36:17.343Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:36:17.345Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:36:17.351Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:36:17.362Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:36:17.756Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:36:18.351Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T05:36:18.866Z - HTTPS CONNECT: 127.0.0.1 -> res-1.cdn.office.net:443
+[INFO] 2025-12-30T05:36:18.876Z - HTTPS CONNECT: 127.0.0.1 -> loki.delve.office.com:443
+[WARN] 2025-12-30T05:36:19.446Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T05:36:19.709Z - HTTPS CONNECT: 127.0.0.1 -> admin.microsoft.com:443
+[INFO] 2025-12-30T05:36:20.364Z - HTTPS CONNECT: 127.0.0.1 -> augloop.office.com:443
+[WARN] 2025-12-30T05:36:20.515Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T05:36:20.517Z - HTTPS CONNECT: 127.0.0.1 -> teams.events.data.microsoft.com:443
+[WARN] 2025-12-30T05:36:20.667Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T05:36:21.456Z - HTTPS CONNECT: 127.0.0.1 -> teams.microsoft.com:443
+[INFO] 2025-12-30T05:36:21.563Z - HTTPS CONNECT: 127.0.0.1 -> augloop.office.com:443
+[INFO] 2025-12-30T05:36:21.598Z - HTTPS CONNECT: 127.0.0.1 -> augloop.office.com:443
+[INFO] 2025-12-30T05:36:22.241Z - HTTPS CONNECT: 127.0.0.1 -> augloop.office.com:443
+[INFO] 2025-12-30T05:36:22.270Z - HTTPS CONNECT: 127.0.0.1 -> augloop.office.com:443
+[INFO] 2025-12-30T05:36:22.272Z - HTTPS CONNECT: 127.0.0.1 -> augloop.office.com:443
+[INFO] 2025-12-30T05:36:22.313Z - HTTPS CONNECT: 127.0.0.1 -> pub-ent-ince-03-t.trouter.teams.microsoft.com:443
+[INFO] 2025-12-30T05:36:22.320Z - HTTPS CONNECT: 127.0.0.1 -> augloop.office.com:443
+[INFO] 2025-12-30T05:36:22.430Z - HTTPS CONNECT: 127.0.0.1 -> browser.events.data.microsoft.com:443
+[WARN] 2025-12-30T05:36:22.567Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T05:36:23.355Z - HTTPS CONNECT: 127.0.0.1 -> browser.events.data.microsoft.com:443
+[WARN] 2025-12-30T05:36:23.642Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:36:23.643Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:36:24.214Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:36:24.278Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T05:36:24.333Z - HTTPS CONNECT: 127.0.0.1 -> api.flightproxy.teams.microsoft.com:443
+[WARN] 2025-12-30T05:36:24.336Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:36:24.399Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:36:24.426Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:36:24.427Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:36:24.440Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T05:36:25.272Z - HTTPS CONNECT: 127.0.0.1 -> res.public.onecdn.static.microsoft:443
+[INFO] 2025-12-30T05:36:25.273Z - HTTPS CONNECT: 127.0.0.1 -> umsgrpsubacc-14qguefp.ap21.sls.cloud.sap:443
+[INFO] 2025-12-30T05:36:25.283Z - HTTPS CONNECT: 127.0.0.1 -> umsgrpsubacc-14qguefp.ap21.sls.cloud.sap:443
+[INFO] 2025-12-30T05:36:25.285Z - HTTPS CONNECT: 127.0.0.1 -> res.public.onecdn.static.microsoft:443
+[WARN] 2025-12-30T05:36:25.286Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:36:25.377Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T05:36:25.413Z - HTTPS CONNECT: 127.0.0.1 -> ayisqegkn.accounts.cloud.sap:443
+[INFO] 2025-12-30T05:36:25.417Z - HTTPS CONNECT: 127.0.0.1 -> ayisqegkn.accounts.cloud.sap:443
+[WARN] 2025-12-30T05:36:25.419Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T05:36:25.517Z - HTTPS CONNECT: 127.0.0.1 -> outlook.office.com:443
+[INFO] 2025-12-30T05:36:25.532Z - HTTPS CONNECT: 127.0.0.1 -> ayisqegkn.accounts.cloud.sap:443
+[INFO] 2025-12-30T05:36:25.662Z - HTTPS CONNECT: 127.0.0.1 -> ayisqegkn.accounts.cloud.sap:443
+[INFO] 2025-12-30T05:36:25.663Z - HTTPS CONNECT: 127.0.0.1 -> ayisqegkn.accounts.cloud.sap:443
+[INFO] 2025-12-30T05:36:25.663Z - HTTPS CONNECT: 127.0.0.1 -> ayisqegkn.accounts.cloud.sap:443
+[INFO] 2025-12-30T05:36:25.666Z - HTTPS CONNECT: 127.0.0.1 -> ayisqegkn.accounts.cloud.sap:443
+[WARN] 2025-12-30T05:36:25.746Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T05:36:25.886Z - HTTPS CONNECT: 127.0.0.1 -> outlook.office.com:443
+[INFO] 2025-12-30T05:36:26.275Z - HTTPS CONNECT: 127.0.0.1 -> tasks.teams.microsoft.com:443
+[INFO] 2025-12-30T05:36:26.291Z - HTTPS CONNECT: 127.0.0.1 -> browser.events.data.microsoft.com:443
+[INFO] 2025-12-30T05:36:26.402Z - HTTPS CONNECT: 127.0.0.1 -> tasks.teams.microsoft.com:443
+[INFO] 2025-12-30T05:36:26.431Z - HTTPS CONNECT: 127.0.0.1 -> res.cdn.office.net:443
+[INFO] 2025-12-30T05:36:26.433Z - HTTPS CONNECT: 127.0.0.1 -> static2.sharepointonline.com:443
+[INFO] 2025-12-30T05:36:26.434Z - HTTPS CONNECT: 127.0.0.1 -> spoprod-a.akamaihd.net:443
+[INFO] 2025-12-30T05:36:26.435Z - HTTPS CONNECT: 127.0.0.1 -> tasks.office.com:443
+[INFO] 2025-12-30T05:36:26.448Z - HTTPS CONNECT: 127.0.0.1 -> csp.microsoft.com:443
+[WARN] 2025-12-30T05:36:26.590Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T05:36:26.690Z - HTTPS CONNECT: 127.0.0.1 -> dc.services.visualstudio.com:443
+[WARN] 2025-12-30T05:36:27.256Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:36:27.443Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T05:36:28.417Z - HTTPS CONNECT: 127.0.0.1 -> browser.events.data.microsoft.com:443
+[INFO] 2025-12-30T05:36:28.460Z - HTTPS CONNECT: 127.0.0.1 -> browser.events.data.microsoft.com:443
+[ERROR] 2025-12-30T05:36:28.463Z - Proxy socket error for tasks.office.com:443: read ECONNRESET
+[ERROR] 2025-12-30T05:36:28.467Z - Proxy socket error for tasks.teams.microsoft.com:443: read ECONNRESET
+[ERROR] 2025-12-30T05:36:28.582Z - Proxy socket error for dc.services.visualstudio.com:443: read ECONNRESET
+[ERROR] 2025-12-30T05:36:28.871Z - Proxy socket error for browser.events.data.microsoft.com:443: read ECONNRESET
+[INFO] 2025-12-30T05:36:29.191Z - HTTPS CONNECT: 127.0.0.1 -> teams.microsoft.com:443
+[INFO] 2025-12-30T05:36:29.562Z - HTTPS CONNECT: 127.0.0.1 -> browser.events.data.microsoft.com:443
+[WARN] 2025-12-30T05:36:30.802Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:36:31.176Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T05:36:34.734Z - HTTPS CONNECT: 127.0.0.1 -> ayisqegkn.accounts.cloud.sap:443
+[INFO] 2025-12-30T05:36:34.735Z - HTTPS CONNECT: 127.0.0.1 -> ayisqegkn.accounts.cloud.sap:443
+[WARN] 2025-12-30T05:36:34.736Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T05:36:34.842Z - HTTPS CONNECT: 127.0.0.1 -> login.microsoftonline.com:443
+[WARN] 2025-12-30T05:36:35.275Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:36:35.332Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:36:35.422Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:36:35.470Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:36:35.525Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:36:38.259Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:36:39.414Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:36:46.959Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:36:47.474Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:36:52.852Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:36:53.351Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:36:54.338Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:36:54.386Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T05:36:58.431Z - HTTPS CONNECT: 127.0.0.1 -> beacons.gcp.gvt2.com:443
+[INFO] 2025-12-30T05:36:58.736Z - HTTPS CONNECT: 127.0.0.1 -> beacons.gcp.gvt2.com:443
+[INFO] 2025-12-30T05:37:00.862Z - HTTPS CONNECT: 127.0.0.1 -> teams.events.data.microsoft.com:443
+[INFO] 2025-12-30T05:37:03.969Z - HTTPS CONNECT: 127.0.0.1 -> us-prod.asyncgw.teams.microsoft.com:443
+[INFO] 2025-12-30T05:37:04.182Z - HTTPS CONNECT: 127.0.0.1 -> statics.teams.cdn.office.net:443
+[INFO] 2025-12-30T05:37:04.506Z - HTTPS CONNECT: 127.0.0.1 -> statics.teams.cdn.office.net:443
+[WARN] 2025-12-30T05:37:06.059Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:37:08.631Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T05:37:11.477Z - HTTPS CONNECT: 127.0.0.1 -> teams.microsoft.com:443
+[WARN] 2025-12-30T05:37:11.634Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T05:37:12.613Z - HTTPS CONNECT: 127.0.0.1 -> loki.delve.office.com:443
+[WARN] 2025-12-30T05:37:26.582Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:37:27.644Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:37:32.665Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:37:43.691Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T05:37:45.172Z - HTTPS CONNECT: 127.0.0.1 -> media.fsin11-1.fna.whatsapp.net:443
+[WARN] 2025-12-30T05:37:47.149Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:37:52.163Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T05:37:53.095Z - HTTPS CONNECT: 127.0.0.1 -> teams.microsoft.com:443
+[WARN] 2025-12-30T05:37:53.454Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:37:54.632Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:37:54.832Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:37:57.289Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T05:37:57.448Z - HTTPS CONNECT: 127.0.0.1 -> www.google.com:443
+[INFO] 2025-12-30T05:37:57.452Z - HTTPS CONNECT: 127.0.0.1 -> chat.deepseek.com:443
+[INFO] 2025-12-30T05:37:57.480Z - HTTPS CONNECT: 127.0.0.1 -> gator.volces.com:443
+[WARN] 2025-12-30T05:38:02.169Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T05:47:24.887Z - Forward proxy server started on 0.0.0.0:3128
+[WARN] 2025-12-30T05:55:43.085Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:55:43.096Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:55:43.104Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:55:43.105Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:55:43.129Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:55:43.131Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:55:44.109Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T05:55:52.506Z - HTTPS CONNECT: 127.0.0.1 -> umsgrpsubacc-14qguefp.ap21.sls.cloud.sap:443
+[INFO] 2025-12-30T05:55:52.512Z - HTTPS CONNECT: 127.0.0.1 -> umsgrpsubacc-14qguefp.ap21.sls.cloud.sap:443
+[WARN] 2025-12-30T05:55:52.513Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T05:55:52.596Z - HTTPS CONNECT: 127.0.0.1 -> ayisqegkn.accounts.cloud.sap:443
+[INFO] 2025-12-30T05:55:52.599Z - HTTPS CONNECT: 127.0.0.1 -> ayisqegkn.accounts.cloud.sap:443
+[WARN] 2025-12-30T05:55:52.599Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T05:55:52.676Z - HTTPS CONNECT: 127.0.0.1 -> ayisqegkn.accounts.cloud.sap:443
+[INFO] 2025-12-30T05:55:52.734Z - HTTPS CONNECT: 127.0.0.1 -> ayisqegkn.accounts.cloud.sap:443
+[INFO] 2025-12-30T05:55:52.735Z - HTTPS CONNECT: 127.0.0.1 -> ayisqegkn.accounts.cloud.sap:443
+[INFO] 2025-12-30T05:55:52.735Z - HTTPS CONNECT: 127.0.0.1 -> ayisqegkn.accounts.cloud.sap:443
+[INFO] 2025-12-30T05:55:52.737Z - HTTPS CONNECT: 127.0.0.1 -> ayisqegkn.accounts.cloud.sap:443
+[INFO] 2025-12-30T05:55:58.159Z - HTTPS CONNECT: 127.0.0.1 -> it.lngtd.com:443
+[INFO] 2025-12-30T05:55:58.163Z - HTTPS CONNECT: 127.0.0.1 -> openway.deepseeksvc.com:443
+[INFO] 2025-12-30T05:56:00.187Z - HTTPS CONNECT: 127.0.0.1 -> www.youtube.com:443
+[INFO] 2025-12-30T05:56:01.161Z - HTTPS CONNECT: 127.0.0.1 -> ade.googlesyndication.com:443
+[INFO] 2025-12-30T05:56:01.206Z - HTTPS CONNECT: 127.0.0.1 -> beacons.gcp.gvt2.com:443
+[INFO] 2025-12-30T05:56:01.604Z - HTTPS CONNECT: 127.0.0.1 -> ayisqegkn.accounts.cloud.sap:443
+[INFO] 2025-12-30T05:56:01.605Z - HTTPS CONNECT: 127.0.0.1 -> ayisqegkn.accounts.cloud.sap:443
+[WARN] 2025-12-30T05:56:01.606Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T05:56:01.707Z - HTTPS CONNECT: 127.0.0.1 -> login.microsoftonline.com:443
+[WARN] 2025-12-30T05:56:02.693Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:56:02.729Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:56:02.857Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:56:02.905Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:56:02.959Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T05:56:03.160Z - HTTPS CONNECT: 127.0.0.1 -> googleads.g.doubleclick.net:443
+[WARN] 2025-12-30T05:56:06.081Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:56:08.660Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T05:56:25.596Z - HTTPS CONNECT: 127.0.0.1 -> chatgpt.com:443
+[INFO] 2025-12-30T05:56:25.737Z - HTTPS CONNECT: 127.0.0.1 -> beacons.gcp.gvt2.com:443
+[INFO] 2025-12-30T05:56:25.738Z - HTTPS CONNECT: 127.0.0.1 -> beacons.gcp.gvt2.com:443
+[INFO] 2025-12-30T05:56:27.352Z - HTTPS CONNECT: 127.0.0.1 -> ab.chatgpt.com:443
+[INFO] 2025-12-30T05:56:27.356Z - HTTPS CONNECT: 127.0.0.1 -> www.bing.com:443
+[WARN] 2025-12-30T05:56:42.826Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:56:43.282Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:56:45.848Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:57:06.056Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T05:57:06.458Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T05:57:07.462Z - HTTPS CONNECT: 127.0.0.1 -> i.ytimg.com:443
+[INFO] 2025-12-30T05:57:07.479Z - HTTPS CONNECT: 127.0.0.1 -> fonts.gstatic.com:443
+[INFO] 2025-12-30T05:57:09.442Z - HTTPS CONNECT: 127.0.0.1 -> www.google.com:443
+[INFO] 2025-12-30T05:57:09.443Z - HTTPS CONNECT: 127.0.0.1 -> www.google.com.sg:443
+[INFO] 2025-12-30T05:57:09.618Z - HTTPS CONNECT: 127.0.0.1 -> yt3.ggpht.com:443
+[INFO] 2025-12-30T05:57:09.620Z - HTTPS CONNECT: 127.0.0.1 -> yt3.ggpht.com:443
+[INFO] 2025-12-30T05:57:09.722Z - HTTPS CONNECT: 127.0.0.1 -> yt3.ggpht.com:443
+[WARN] 2025-12-30T05:57:09.755Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T05:57:10.013Z - HTTPS CONNECT: 127.0.0.1 -> rr5---sn-nu5gi0c-npoel.googlevideo.com:443
+[INFO] 2025-12-30T05:57:10.066Z - HTTPS CONNECT: 127.0.0.1 -> rr5---sn-nu5gi0c-npoel.googlevideo.com:443
+[INFO] 2025-12-30T05:57:10.329Z - HTTPS CONNECT: 127.0.0.1 -> static.doubleclick.net:443
+[INFO] 2025-12-30T05:57:10.408Z - HTTPS CONNECT: 127.0.0.1 -> www.gstatic.com:443
+[INFO] 2025-12-30T05:57:25.452Z - HTTPS CONNECT: 127.0.0.1 -> nexus-websocket-a.intercom.io:443
+[INFO] 2025-12-30T05:57:27.372Z - HTTPS CONNECT: 127.0.0.1 -> edge.microsoft.com:443
+[WARN] 2025-12-30T05:57:43.673Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T05:57:44.925Z - HTTPS CONNECT: 127.0.0.1 -> www.bing.com:443
+[WARN] 2025-12-30T05:57:58.502Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T05:58:01.154Z - HTTPS CONNECT: 127.0.0.1 -> accounts.google.com:443
+[WARN] 2025-12-30T05:58:01.950Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T06:00:19.385Z - Forward proxy server started on 0.0.0.0:3128
+[INFO] 2025-12-30T06:00:22.176Z - HTTPS CONNECT: 127.0.0.1 -> nexus-websocket-a.intercom.io:443
+[INFO] 2025-12-30T06:00:22.180Z - HTTPS CONNECT: 127.0.0.1 -> www.youtube.com:443
+[WARN] 2025-12-30T06:00:22.821Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T06:00:24.461Z - HTTPS CONNECT: 127.0.0.1 -> go.trouter.teams.microsoft.com:443
+[INFO] 2025-12-30T06:00:24.912Z - HTTPS CONNECT: 127.0.0.1 -> pub-ent-ince-03-t.trouter.teams.microsoft.com:443
+[INFO] 2025-12-30T06:00:25.320Z - HTTPS CONNECT: 127.0.0.1 -> teams.microsoft.com:443
+[INFO] 2025-12-30T06:00:25.480Z - HTTPS CONNECT: 127.0.0.1 -> outlook.office.com:443
+[INFO] 2025-12-30T06:00:25.574Z - HTTPS CONNECT: 127.0.0.1 -> as-api.asm.skype.com:443
+[INFO] 2025-12-30T06:00:25.575Z - HTTPS CONNECT: 127.0.0.1 -> as-prod.asyncgw.teams.microsoft.com:443
+[INFO] 2025-12-30T06:00:35.486Z - HTTPS CONNECT: 127.0.0.1 -> teams.events.data.microsoft.com:443
+[WARN] 2025-12-30T06:00:35.594Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T06:00:35.956Z - HTTPS CONNECT: 127.0.0.1 -> chatgpt.com:443
+[INFO] 2025-12-30T06:00:36.937Z - HTTPS CONNECT: 127.0.0.1 -> teams.events.data.microsoft.com:443
+[WARN] 2025-12-30T06:00:38.015Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T06:00:38.054Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T06:00:38.057Z - HTTPS CONNECT: 127.0.0.1 -> assets.msn.com:443
+[WARN] 2025-12-30T06:00:39.112Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T06:00:42.346Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T06:00:47.594Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T06:00:54.995Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T06:00:58.159Z - HTTPS CONNECT: 127.0.0.1 -> it.lngtd.com:443
+[INFO] 2025-12-30T06:00:59.189Z - HTTPS CONNECT: 127.0.0.1 -> ab.chatgpt.com:443
+[WARN] 2025-12-30T06:01:01.127Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T06:01:05.615Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T06:01:10.240Z - HTTPS CONNECT: 127.0.0.1 -> beacons.gcp.gvt2.com:443
+[INFO] 2025-12-30T06:01:10.241Z - HTTPS CONNECT: 127.0.0.1 -> beacons.gcp.gvt2.com:443
+[INFO] 2025-12-30T06:01:10.242Z - HTTPS CONNECT: 127.0.0.1 -> beacons.gcp.gvt2.com:443
+[INFO] 2025-12-30T06:01:10.242Z - HTTPS CONNECT: 127.0.0.1 -> beacons.gcp.gvt2.com:443
+[WARN] 2025-12-30T06:01:13.707Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T06:01:17.796Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T06:01:17.797Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T06:01:18.758Z - HTTPS CONNECT: 127.0.0.1 -> beacons.gvt2.com:443
+[INFO] 2025-12-30T06:01:36.532Z - HTTPS CONNECT: 127.0.0.1 -> rr1---sn-nu5gi0c-npoy.googlevideo.com:443
+[ERROR] 2025-12-30T06:01:36.832Z - Proxy socket error for rr1---sn-nu5gi0c-npoy.googlevideo.com:443: read ECONNRESET
+[INFO] 2025-12-30T06:01:36.849Z - HTTPS CONNECT: 127.0.0.1 -> rr1---sn-nu5gi0c-npoel.googlevideo.com:443
+[INFO] 2025-12-30T06:01:36.874Z - HTTPS CONNECT: 127.0.0.1 -> rr1---sn-nu5gi0c-npoel.googlevideo.com:443
+[INFO] 2025-12-30T06:01:38.870Z - HTTPS CONNECT: 127.0.0.1 -> rr5---sn-nu5gi0c-npoel.googlevideo.com:443
+[ERROR] 2025-12-30T06:01:38.884Z - Proxy socket error for rr1---sn-nu5gi0c-npoel.googlevideo.com:443: read ECONNRESET
+[ERROR] 2025-12-30T06:01:38.960Z - Proxy socket error for rr5---sn-nu5gi0c-npoel.googlevideo.com:443: read ECONNRESET
+[INFO] 2025-12-30T06:01:39.929Z - HTTPS CONNECT: 127.0.0.1 -> fonts.googleapis.com:443
+[INFO] 2025-12-30T06:01:39.930Z - HTTPS CONNECT: 127.0.0.1 -> fonts.gstatic.com:443
+[INFO] 2025-12-30T06:01:40.026Z - HTTPS CONNECT: 127.0.0.1 -> i.ytimg.com:443
+[INFO] 2025-12-30T06:01:40.031Z - HTTPS CONNECT: 127.0.0.1 -> fonts.gstatic.com:443
+[INFO] 2025-12-30T06:01:40.798Z - HTTPS CONNECT: 127.0.0.1 -> pagead2.googlesyndication.com:443
+[INFO] 2025-12-30T06:01:40.860Z - HTTPS CONNECT: 127.0.0.1 -> pagead2.googlesyndication.com:443
+[INFO] 2025-12-30T06:01:41.605Z - HTTPS CONNECT: 127.0.0.1 -> googleads.g.doubleclick.net:443
+[INFO] 2025-12-30T06:01:42.118Z - HTTPS CONNECT: 127.0.0.1 -> www.google.com:443
+[INFO] 2025-12-30T06:01:42.118Z - HTTPS CONNECT: 127.0.0.1 -> www.google.com.sg:443
+[INFO] 2025-12-30T06:01:42.348Z - HTTPS CONNECT: 127.0.0.1 -> yt3.ggpht.com:443
+[INFO] 2025-12-30T06:01:42.532Z - HTTPS CONNECT: 127.0.0.1 -> rr1---sn-nu5gi0c-npoee.googlevideo.com:443
+[WARN] 2025-12-30T06:01:57.183Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T06:01:57.216Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T06:01:58.165Z - HTTPS CONNECT: 127.0.0.1 -> openway.deepseeksvc.com:443
+[WARN] 2025-12-30T06:02:00.983Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T06:02:05.731Z - HTTPS CONNECT: 127.0.0.1 -> www.bing.com:443
+[WARN] 2025-12-30T06:02:07.041Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T06:02:07.510Z - HTTPS CONNECT: 127.0.0.1 -> umsgrpsubacc-14qguefp.ap21.sls.cloud.sap:443
+[INFO] 2025-12-30T06:02:07.510Z - HTTPS CONNECT: 127.0.0.1 -> ui5.sap.com:443
+[INFO] 2025-12-30T06:02:07.639Z - HTTPS CONNECT: 127.0.0.1 -> ayisqegkn.accounts.cloud.sap:443
+[INFO] 2025-12-30T06:02:07.642Z - HTTPS CONNECT: 127.0.0.1 -> ayisqegkn.accounts.cloud.sap:443
+[INFO] 2025-12-30T06:02:08.283Z - HTTPS CONNECT: 127.0.0.1 -> ticket.uol.com.sg:443
+[INFO] 2025-12-30T06:02:08.401Z - HTTPS CONNECT: 127.0.0.1 -> sapcc.myfreshworks.com:443
+[WARN] 2025-12-30T06:02:13.649Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T06:02:19.106Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T06:02:22.514Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T06:02:24.311Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T06:02:24.325Z - Authentication failed for 127.0.0.1
+[ERROR] 2025-12-30T06:02:29.332Z - Proxy socket error for as-api.asm.skype.com:443: read ECONNRESET
+[ERROR] 2025-12-30T06:02:29.889Z - Proxy socket error for go.trouter.teams.microsoft.com:443: read ECONNRESET
+[ERROR] 2025-12-30T06:02:31.733Z - Proxy socket error for teams.microsoft.com:443: read ECONNRESET
+[ERROR] 2025-12-30T06:02:32.155Z - Proxy socket error for as-prod.asyncgw.teams.microsoft.com:443: read ECONNRESET
+[ERROR] 2025-12-30T06:02:38.814Z - Proxy socket error for teams.events.data.microsoft.com:443: read ECONNRESET
+[INFO] 2025-12-30T06:02:51.181Z - HTTPS CONNECT: 127.0.0.1 -> realtime.chatgpt.com:443
+[INFO] 2025-12-30T06:02:51.182Z - HTTPS CONNECT: 127.0.0.1 -> realtime.chatgpt.com:443
+[INFO] 2025-12-30T06:02:51.183Z - HTTPS CONNECT: 127.0.0.1 -> realtime.chatgpt.com:443
+[ERROR] 2025-12-30T06:02:51.231Z - Client socket error: write ECONNABORTED
+[INFO] 2025-12-30T06:02:51.254Z - HTTPS CONNECT: 127.0.0.1 -> realtime.chatgpt.com:443
+[ERROR] 2025-12-30T06:02:51.548Z - Client socket error: write ECONNABORTED
+[WARN] 2025-12-30T06:02:55.338Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T06:02:59.623Z - Authentication failed for 127.0.0.1
+[ERROR] 2025-12-30T06:03:00.018Z - Proxy socket error for teams.events.data.microsoft.com:443: read ECONNRESET
+[WARN] 2025-12-30T06:03:01.171Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T06:03:01.735Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T06:03:01.752Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T06:03:01.841Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T06:03:01.859Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T06:03:01.865Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T06:03:02.228Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T06:03:02.955Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T06:03:07.640Z - HTTPS CONNECT: 127.0.0.1 -> edge.microsoft.com:443
+[WARN] 2025-12-30T06:03:10.868Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T06:03:15.141Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T06:03:17.809Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T06:03:17.810Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T06:03:21.336Z - HTTPS CONNECT: 127.0.0.1 -> beacons.gcp.gvt2.com:443
+[WARN] 2025-12-30T06:03:23.413Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T06:03:29.638Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T06:03:29.665Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T06:03:31.321Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T06:03:33.729Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T06:03:55.645Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T06:03:55.647Z - HTTPS CONNECT: 127.0.0.1 -> www.bing.com:443
+[WARN] 2025-12-30T06:03:56.329Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T06:04:01.284Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T06:04:01.298Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T06:04:08.981Z - HTTPS CONNECT: 127.0.0.1 -> rr5---sn-nu5gi0c-npoee.googlevideo.com:443
+[INFO] 2025-12-30T06:04:09.013Z - HTTPS CONNECT: 127.0.0.1 -> rr4---sn-nu5gi0c-npoel.googlevideo.com:443
+[WARN] 2025-12-30T06:04:09.553Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T06:04:11.825Z - HTTPS CONNECT: 127.0.0.1 -> fonts.gstatic.com:443
+[INFO] 2025-12-30T06:04:14.273Z - HTTPS CONNECT: 127.0.0.1 -> rr3---sn-nu5gi0c-npoel.googlevideo.com:443
+[INFO] 2025-12-30T06:04:15.920Z - HTTPS CONNECT: 127.0.0.1 -> rr1---sn-nu5gi0c-npoel.googlevideo.com:443
+[ERROR] 2025-12-30T06:04:15.962Z - Client socket error: write ECONNABORTED
+[INFO] 2025-12-30T06:04:16.016Z - HTTPS CONNECT: 127.0.0.1 -> rr5---sn-nu5gi0c-npoe7.googlevideo.com:443
+[ERROR] 2025-12-30T06:04:16.335Z - Proxy socket error for rr5---sn-nu5gi0c-npoe7.googlevideo.com:443: read ECONNRESET
+[WARN] 2025-12-30T06:04:17.239Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T06:04:20.247Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T06:04:22.771Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T06:04:23.613Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T06:04:33.322Z - HTTPS CONNECT: 127.0.0.1 -> browser.events.data.microsoft.com:443
+[INFO] 2025-12-30T06:04:33.323Z - HTTPS CONNECT: 127.0.0.1 -> outlook.office.com:443
+[INFO] 2025-12-30T06:04:33.323Z - HTTPS CONNECT: 127.0.0.1 -> outlook.office.com:443
+[INFO] 2025-12-30T06:04:33.324Z - HTTPS CONNECT: 127.0.0.1 -> browser.events.data.microsoft.com:443
+[ERROR] 2025-12-30T06:04:33.362Z - Proxy socket error for outlook.office.com:443: read ECONNRESET
+[INFO] 2025-12-30T06:04:37.664Z - HTTPS CONNECT: 127.0.0.1 -> beacons.gcp.gvt2.com:443
+[INFO] 2025-12-30T06:04:40.616Z - HTTPS CONNECT: 127.0.0.1 -> teams.cloud.microsoft:443
+[WARN] 2025-12-30T06:04:49.678Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T06:04:50.049Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T06:04:52.522Z - HTTPS CONNECT: 127.0.0.1 -> augloop.office.com:443
+[INFO] 2025-12-30T06:04:52.550Z - HTTPS CONNECT: 127.0.0.1 -> api.flightproxy.teams.microsoft.com:443
+[WARN] 2025-12-30T06:04:54.763Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T06:04:56.041Z - HTTPS CONNECT: 127.0.0.1 -> apc.loki.delve.office.com:443
+[WARN] 2025-12-30T06:04:57.539Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T06:05:05.465Z - HTTPS CONNECT: 127.0.0.1 -> googleads.g.doubleclick.net:443
+[INFO] 2025-12-30T06:05:05.465Z - HTTPS CONNECT: 127.0.0.1 -> googleads.g.doubleclick.net:443
+[INFO] 2025-12-30T06:05:05.941Z - HTTPS CONNECT: 127.0.0.1 -> chat.deepseek.com:443
+[INFO] 2025-12-30T06:05:05.942Z - HTTPS CONNECT: 127.0.0.1 -> gator.volces.com:443
+[WARN] 2025-12-30T06:05:06.098Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T06:05:12.660Z - Authentication failed for 127.0.0.1
+[ERROR] 2025-12-30T06:05:12.902Z - Proxy socket error for edge.microsoft.com:443: read ECONNRESET
+[WARN] 2025-12-30T06:05:17.821Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T06:05:17.823Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T06:05:22.566Z - HTTPS CONNECT: 127.0.0.1 -> teams.events.data.microsoft.com:443
+[WARN] 2025-12-30T06:05:26.155Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T06:05:27.721Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T06:05:28.171Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T06:05:30.635Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T06:05:46.339Z - HTTPS CONNECT: 127.0.0.1 -> accounts.google.com:443
+[WARN] 2025-12-30T06:05:48.938Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T06:05:57.222Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T06:06:04.938Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T06:06:15.187Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T06:06:18.179Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T06:06:19.881Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T06:06:35.923Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T06:06:38.935Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T06:06:39.181Z - Authentication failed for 127.0.0.1
+[ERROR] 2025-12-30T06:06:44.094Z - Proxy socket error for browser.events.data.microsoft.com:443: read ECONNRESET
+[ERROR] 2025-12-30T06:06:46.479Z - Proxy socket error for teams.cloud.microsoft:443: read ECONNRESET
+[WARN] 2025-12-30T06:06:46.613Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T06:06:48.956Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T06:06:49.253Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T06:06:55.220Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T06:07:09.624Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T06:07:12.286Z - HTTPS CONNECT: 127.0.0.1 -> teams.microsoft.com:443
+[WARN] 2025-12-30T06:07:13.095Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T06:07:16.970Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T06:07:17.830Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T06:07:17.832Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T06:07:20.374Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T06:07:32.669Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T06:07:41.149Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T06:07:47.416Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T06:07:58.415Z - HTTPS CONNECT: 127.0.0.1 -> accounts.google.com:443
+[INFO] 2025-12-30T06:07:59.729Z - HTTPS CONNECT: 127.0.0.1 -> pagead2.googlesyndication.com:443
+[INFO] 2025-12-30T06:07:59.885Z - HTTPS CONNECT: 127.0.0.1 -> pagead2.googlesyndication.com:443
+[WARN] 2025-12-30T06:08:03.867Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T06:08:10.771Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T06:08:13.563Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T06:08:13.654Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T06:08:13.956Z - HTTPS CONNECT: 127.0.0.1 -> openway.deepseeksvc.com:443
+[INFO] 2025-12-30T06:08:13.960Z - HTTPS CONNECT: 127.0.0.1 -> gator.volces.com:443
+[WARN] 2025-12-30T06:08:53.474Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T06:08:58.996Z - HTTPS CONNECT: 127.0.0.1 -> umsgrpsubacc-14qguefp.ap21.sls.cloud.sap:443
+[INFO] 2025-12-30T06:08:58.996Z - HTTPS CONNECT: 127.0.0.1 -> umsgrpsubacc-14qguefp.ap21.sls.cloud.sap:443
+[INFO] 2025-12-30T06:08:59.245Z - HTTPS CONNECT: 127.0.0.1 -> umsgrpsubacc-14qguefp.ap21.sls.cloud.sap:443
+[INFO] 2025-12-30T06:08:59.354Z - HTTPS CONNECT: 127.0.0.1 -> ayisqegkn.accounts.cloud.sap:443
+[INFO] 2025-12-30T06:08:59.370Z - HTTPS CONNECT: 127.0.0.1 -> ayisqegkn.accounts.cloud.sap:443
+[INFO] 2025-12-30T06:08:59.744Z - HTTPS CONNECT: 127.0.0.1 -> ayisqegkn.accounts.cloud.sap:443
+[INFO] 2025-12-30T06:09:00.010Z - HTTPS CONNECT: 127.0.0.1 -> ayisqegkn.accounts.cloud.sap:443
+[INFO] 2025-12-30T06:09:00.120Z - HTTPS CONNECT: 127.0.0.1 -> ayisqegkn.accounts.cloud.sap:443
+[INFO] 2025-12-30T06:09:00.120Z - HTTPS CONNECT: 127.0.0.1 -> ayisqegkn.accounts.cloud.sap:443
+[INFO] 2025-12-30T06:09:00.120Z - HTTPS CONNECT: 127.0.0.1 -> ayisqegkn.accounts.cloud.sap:443
+[INFO] 2025-12-30T06:09:00.121Z - HTTPS CONNECT: 127.0.0.1 -> ayisqegkn.accounts.cloud.sap:443
+[ERROR] 2025-12-30T06:09:15.468Z - Proxy socket error for teams.microsoft.com:443: read ECONNRESET
+[ERROR] 2025-12-30T06:09:22.296Z - Proxy socket error for teams.events.data.microsoft.com:443: read ECONNRESET
+[ERROR] 2025-12-30T06:10:32.303Z - Proxy socket error for browser.events.data.microsoft.com:443: read ECONNRESET
+[ERROR] 2025-12-30T06:10:48.362Z - Client socket error: read ECONNRESET
+[ERROR] 2025-12-30T06:10:48.517Z - Client socket error: read ECONNRESET
+[WARN] 2025-12-30T06:11:13.583Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T06:11:13.850Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T06:11:24.172Z - HTTPS CONNECT: 127.0.0.1 -> api.github.com:443
+[INFO] 2025-12-30T06:12:54.750Z - Shutting down proxy server...
+[INFO] 2025-12-30T06:13:07.614Z - Shutting down proxy server...
+[INFO] 2025-12-30T06:13:08.806Z - Shutting down proxy server...
+[INFO] 2025-12-30T06:13:09.511Z - Shutting down proxy server...
+[INFO] 2025-12-30T06:13:10.102Z - Shutting down proxy server...
+[INFO] 2025-12-30T06:17:02.728Z - Shutting down proxy server...
+[INFO] 2025-12-30T06:17:03.145Z - Shutting down proxy server...
+[INFO] 2025-12-30T06:17:03.329Z - Shutting down proxy server...
+[INFO] 2025-12-30T06:17:03.520Z - Shutting down proxy server...
+[INFO] 2025-12-30T06:17:03.688Z - Shutting down proxy server...
+[INFO] 2025-12-30T06:17:03.881Z - Shutting down proxy server...
+[INFO] 2025-12-30T06:17:04.097Z - Shutting down proxy server...
+[INFO] 2025-12-30T06:17:06.777Z - Shutting down proxy server...
+[INFO] 2025-12-30T06:17:07.241Z - Shutting down proxy server...
+[INFO] 2025-12-30T06:18:49.968Z - Forward proxy server started on 0.0.0.0:3128
+[INFO] 2025-12-30T06:19:05.968Z - Forward proxy server started on 0.0.0.0:3128
+[INFO] 2025-12-30T06:19:09.570Z - Shutting down proxy server...
+[INFO] 2025-12-30T06:22:31.476Z - Forward proxy server started on 0.0.0.0:3128
+[INFO] 2025-12-30T06:22:33.276Z - Shutting down proxy server...
+[INFO] 2025-12-30T06:23:00.193Z - Forward proxy server started on 0.0.0.0:3128
+[WARN] 2025-12-30T06:23:36.685Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T06:23:43.632Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-30T06:23:43.882Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-30T06:23:49.851Z - HTTPS CONNECT: 127.0.0.1 -> umsgrpsubacc-14qguefp.ap21.sls.cloud.sap:443
+[INFO] 2025-12-30T06:23:50.102Z - HTTPS CONNECT: 127.0.0.1 -> umsgrpsubacc-14qguefp.ap21.sls.cloud.sap:443
+[INFO] 2025-12-30T06:23:50.488Z - HTTPS CONNECT: 127.0.0.1 -> ayisqegkn.accounts.cloud.sap:443
+[INFO] 2025-12-30T06:23:50.489Z - HTTPS CONNECT: 127.0.0.1 -> ayisqegkn.accounts.cloud.sap:443
+[INFO] 2025-12-30T06:23:50.750Z - HTTPS CONNECT: 127.0.0.1 -> ayisqegkn.accounts.cloud.sap:443
+[INFO] 2025-12-30T06:24:34.789Z - Shutting down proxy server...
+[INFO] 2025-12-30T06:24:38.313Z - Forward proxy server started on 0.0.0.0:3128
+[INFO] 2025-12-30T06:24:43.718Z - Shutting down proxy server...
+[INFO] 2025-12-30T06:24:53.712Z - Forward proxy server started on 0.0.0.0:3128
+[INFO] 2025-12-30T06:25:21.264Z - Forward proxy server started on 0.0.0.0:3128
+[INFO] 2025-12-30T06:26:10.071Z - HTTPS CONNECT: 127.0.0.1 -> umsgrpsubacc-14qguefp.ap21.sls.cloud.sap:443
+[INFO] 2025-12-30T06:26:10.324Z - HTTPS CONNECT: 127.0.0.1 -> umsgrpsubacc-14qguefp.ap21.sls.cloud.sap:443
+[INFO] 2025-12-30T06:26:10.487Z - HTTPS CONNECT: 127.0.0.1 -> ayisqegkn.accounts.cloud.sap:443
+[INFO] 2025-12-30T06:26:10.748Z - HTTPS CONNECT: 127.0.0.1 -> ayisqegkn.accounts.cloud.sap:443
+[INFO] 2025-12-30T06:26:22.599Z - Shutting down proxy server...
+[INFO] 2025-12-31T00:55:25.988Z - Forward proxy server started on 0.0.0.0:3128
+[WARN] 2025-12-31T00:57:06.732Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T00:57:08.193Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T00:57:08.196Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T00:57:09.209Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T00:57:09.210Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T00:57:09.737Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T00:57:14.077Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T00:57:16.600Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T00:58:26.156Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T00:58:37.488Z - HTTPS CONNECT: 127.0.0.1 -> umsgrpsubacc-14qguefp.ap21.sls.cloud.sap:443
+[INFO] 2025-12-31T00:58:37.490Z - HTTPS CONNECT: 127.0.0.1 -> umsgrpsubacc-14qguefp.ap21.sls.cloud.sap:443
+[INFO] 2025-12-31T00:58:37.756Z - HTTPS CONNECT: 127.0.0.1 -> umsgrpsubacc-14qguefp.ap21.sls.cloud.sap:443
+[INFO] 2025-12-31T00:58:37.865Z - HTTPS CONNECT: 127.0.0.1 -> ayisqegkn.accounts.cloud.sap:443
+[INFO] 2025-12-31T00:58:37.866Z - HTTPS CONNECT: 127.0.0.1 -> ayisqegkn.accounts.cloud.sap:443
+[ERROR] 2025-12-31T00:58:38.143Z - Client socket error: write ECONNABORTED
+[WARN] 2025-12-31T00:58:38.213Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T00:58:38.214Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T00:58:38.272Z - HTTPS CONNECT: 127.0.0.1 -> ayisqegkn.accounts.cloud.sap:443
+[INFO] 2025-12-31T00:58:38.530Z - HTTPS CONNECT: 127.0.0.1 -> ayisqegkn.accounts.cloud.sap:443
+[INFO] 2025-12-31T00:58:38.735Z - HTTPS CONNECT: 127.0.0.1 -> ayisqegkn.accounts.cloud.sap:443
+[INFO] 2025-12-31T00:58:38.736Z - HTTPS CONNECT: 127.0.0.1 -> ayisqegkn.accounts.cloud.sap:443
+[INFO] 2025-12-31T00:58:38.736Z - HTTPS CONNECT: 127.0.0.1 -> ayisqegkn.accounts.cloud.sap:443
+[INFO] 2025-12-31T00:58:38.737Z - HTTPS CONNECT: 127.0.0.1 -> ayisqegkn.accounts.cloud.sap:443
+[WARN] 2025-12-31T00:58:39.082Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T00:58:39.945Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T00:58:40.811Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T00:58:41.673Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T00:58:42.537Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T00:58:43.397Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T00:58:44.256Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T00:58:45.117Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T00:58:45.974Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T00:58:46.835Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T00:58:47.695Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T00:58:48.562Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T00:58:48.631Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T00:58:49.429Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T00:58:50.288Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T00:58:51.155Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T00:58:52.023Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T00:58:52.884Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T00:58:53.738Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T00:58:54.598Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T00:58:55.463Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T00:58:56.326Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T00:58:57.189Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T00:58:58.058Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T00:58:58.928Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T00:58:59.789Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T00:59:00.666Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T00:59:01.532Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T00:59:02.408Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T00:59:03.274Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T00:59:04.132Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T00:59:04.997Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T00:59:05.856Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T00:59:06.737Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:02:09.549Z - Forward proxy server started on 0.0.0.0:3128
+[WARN] 2025-12-31T01:02:10.410Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:02:11.274Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:02:12.148Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:02:13.030Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:02:13.886Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:02:14.748Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:02:15.613Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:02:16.483Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:02:17.343Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:02:18.208Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:02:19.073Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:02:19.938Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:02:20.817Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:02:21.680Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:02:22.558Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:02:23.415Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:02:24.276Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:02:25.137Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:02:26.000Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:02:26.856Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:02:27.735Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:02:28.596Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:02:29.464Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:02:30.324Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:02:31.179Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:02:32.044Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:02:32.912Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:02:33.773Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:02:34.637Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:02:35.503Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:02:36.367Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:02:37.232Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:02:38.096Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:02:38.962Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:02:39.825Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:02:40.691Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:02:41.557Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:02:42.420Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:02:43.302Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:02:44.166Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:02:45.045Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:02:45.912Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:02:46.777Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:02:47.641Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:02:48.507Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:02:49.372Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:02:50.236Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:02:51.115Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:02:51.970Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:02:52.832Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:02:53.707Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:02:54.575Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:02:55.455Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:02:56.321Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:02:57.186Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:02:58.051Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:02:58.916Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:02:59.780Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:03:00.645Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:03:01.510Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:03:02.376Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:03:03.240Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:03:04.110Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:03:04.984Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:03:05.851Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:03:06.730Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:03:07.597Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:03:08.478Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:03:09.333Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:03:10.194Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:03:11.056Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:03:11.920Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:03:12.785Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:03:13.665Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:03:14.542Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:03:15.397Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:03:16.261Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:03:17.125Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:03:17.176Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:03:18.003Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:03:18.857Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:03:19.720Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:03:20.584Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:03:21.450Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:03:22.313Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:03:22.751Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:03:23.169Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:03:24.027Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:03:24.905Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:03:25.773Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:03:26.638Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:03:27.503Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:03:28.367Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:03:29.229Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:03:30.085Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:03:30.945Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:03:31.809Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:03:32.674Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:03:33.553Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:03:34.435Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:03:35.311Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:03:36.166Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:03:37.020Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:03:37.879Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:03:38.744Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:03:39.608Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:03:40.473Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:03:41.338Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:03:42.203Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:03:43.065Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:03:43.933Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:03:44.812Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:03:45.710Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:03:46.576Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:03:47.440Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:03:48.305Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:03:49.170Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:03:50.035Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:03:50.899Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:03:51.757Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:03:52.613Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:03:53.476Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:03:54.341Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:03:55.207Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:03:56.081Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:03:56.950Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:03:57.818Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:03:58.683Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:03:59.546Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:04:00.411Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:04:01.276Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:04:02.140Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:04:03.005Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:04:03.871Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:04:04.734Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:04:05.600Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:04:06.483Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:04:07.345Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:04:08.211Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:04:09.075Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:04:09.935Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:04:10.788Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:04:11.650Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:04:12.515Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:04:13.370Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:04:14.229Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:04:15.097Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:04:15.958Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:04:16.822Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:04:17.686Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:04:18.550Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:04:19.416Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:04:20.281Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:04:21.145Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:04:22.010Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:04:22.890Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:04:23.756Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:04:24.612Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:04:25.469Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:04:26.334Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:04:27.203Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:04:28.063Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:04:28.929Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T01:04:29.792Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:04:30.366Z - Forward proxy server started on 0.0.0.0:3128
+[WARN] 2025-12-31T01:04:30.671Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:04:30.672Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:04:31.526Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:04:31.526Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:04:32.381Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:04:32.382Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:04:33.247Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:04:33.248Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:04:34.113Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:04:34.114Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:04:34.980Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:04:34.980Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:04:35.835Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:04:35.836Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:04:36.706Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:04:36.706Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:04:37.582Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:04:37.583Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:04:38.438Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:04:38.438Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:04:39.302Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:04:39.302Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:04:40.171Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:04:40.171Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:04:41.043Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:04:41.044Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:04:41.899Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:04:41.900Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:04:42.755Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:04:42.756Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:04:43.640Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:04:43.640Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:04:44.508Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:04:44.508Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:04:45.366Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:04:45.366Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:04:46.234Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:04:46.234Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:04:47.091Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:04:47.091Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:04:47.183Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:04:47.184Z - Client Info: IP=127.0.0.1, Target=play.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:04:47.976Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:04:47.977Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:04:48.831Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:04:48.831Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:04:49.685Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:04:49.685Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:04:50.543Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:04:50.543Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:04:51.408Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:04:51.408Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:04:52.287Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:04:52.287Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:04:53.155Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:04:53.156Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:04:53.770Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:04:53.770Z - Client Info: IP=127.0.0.1, Target=play.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:04:54.009Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:04:54.009Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:04:54.868Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:04:54.868Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:04:55.723Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:04:55.724Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:04:56.580Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:04:56.580Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:04:57.444Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:04:57.444Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:04:58.328Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:04:58.328Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:04:59.190Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:04:59.190Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:05:00.044Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:05:00.044Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:05:00.898Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:05:00.898Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:05:01.752Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:05:01.753Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:05:02.614Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:05:02.615Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:05:03.481Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:05:03.481Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:05:04.346Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:05:04.346Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:05:05.211Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:05:05.211Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:05:06.089Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:05:06.090Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:05:06.957Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:05:06.958Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:05:07.820Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:05:07.820Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:05:08.695Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:05:08.695Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:05:09.550Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:05:09.550Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:05:10.415Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:05:10.415Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:05:11.294Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:05:11.295Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:05:12.175Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:05:12.176Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:05:13.057Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:05:13.058Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:05:13.939Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:05:13.939Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:05:14.804Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:05:14.804Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:05:15.670Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:05:15.670Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:05:16.535Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:05:16.535Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:05:17.399Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:05:17.400Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:05:18.278Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:05:18.279Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:05:19.155Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:05:19.155Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:05:20.025Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:05:20.026Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:05:20.897Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:05:20.897Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:05:21.751Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:05:21.752Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:05:22.620Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:05:22.620Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:05:23.484Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:05:23.485Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:05:24.350Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:05:24.350Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:05:25.214Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:05:25.214Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:05:26.080Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:05:26.080Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:05:26.941Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:05:26.941Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:05:27.796Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:05:27.797Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:05:28.652Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:05:28.653Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:05:29.521Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:05:29.522Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:05:30.382Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:05:30.383Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:05:31.241Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:05:31.241Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:05:32.097Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:05:32.097Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:05:32.967Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:05:32.967Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:05:33.826Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:05:33.826Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:05:34.684Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:05:34.684Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:05:35.542Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:05:35.542Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:05:36.396Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:05:36.397Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:05:37.259Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:05:37.259Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:05:38.121Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:05:38.121Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:05:38.989Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:05:38.989Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:05:39.863Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:05:39.864Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:05:40.740Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:05:40.740Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:05:41.599Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:05:41.600Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:05:42.458Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:05:42.458Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:05:43.313Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:05:43.314Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:05:44.175Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:05:44.176Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:05:45.030Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:05:45.030Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:05:45.888Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:05:45.889Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:05:46.755Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:05:46.756Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:05:47.618Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:05:47.618Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:05:48.497Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:05:48.498Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:05:49.356Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:05:49.356Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:05:50.221Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:05:50.222Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:05:51.076Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:05:51.076Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:05:51.932Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:05:51.932Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:05:52.789Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:05:52.790Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:05:53.653Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:05:53.653Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:05:54.516Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:05:54.517Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:05:55.388Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:05:55.388Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:05:56.244Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:05:56.245Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:05:57.102Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:05:57.103Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:05:57.959Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:05:57.959Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:05:58.816Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:05:58.816Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:05:59.673Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:05:59.673Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:06:00.554Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:06:00.555Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:06:01.409Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:06:01.409Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:06:02.264Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:06:02.264Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:06:03.117Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:06:03.118Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:06:03.987Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:06:03.987Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:06:04.843Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:06:04.843Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:06:05.708Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:06:05.709Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:06:06.576Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:06:06.577Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:06:07.449Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:06:07.450Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:06:08.318Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:06:08.318Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:06:09.183Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:06:09.184Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:06:10.051Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:06:10.051Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:06:10.946Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:06:10.946Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:06:11.813Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:06:11.814Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:06:12.679Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:06:12.679Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:06:13.543Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:06:13.543Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:06:14.409Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:06:14.409Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:06:15.273Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:06:15.273Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:06:16.129Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:06:16.130Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:06:16.999Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:06:16.999Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:06:17.870Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:06:17.870Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:06:18.732Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:06:18.733Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:06:19.209Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:06:19.210Z - Client Info: IP=127.0.0.1, Target=play.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:06:19.591Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:06:19.592Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:06:20.450Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:06:20.450Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:06:21.318Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:06:21.318Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:06:22.181Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:06:22.181Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:06:23.039Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:06:23.040Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:06:23.897Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:06:23.897Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:06:24.769Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:06:24.769Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:06:25.627Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:06:25.627Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:06:26.483Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:06:26.484Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:06:27.342Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:06:27.343Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:06:27.817Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:06:27.818Z - Client Info: IP=127.0.0.1, Target=play.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:06:28.203Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:06:28.203Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:06:29.072Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:06:29.072Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:06:29.927Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:06:29.927Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:06:30.806Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:06:30.807Z - Client Info: IP=127.0.0.1, Target=signaler-pa.googleapis.com:443, User-Agent=Unknown
+[INFO] 2025-12-31T01:06:52.268Z - Forward proxy server started on 0.0.0.0:3128
+[INFO] 2025-12-31T01:11:53.195Z - Forward proxy server started on 0.0.0.0:3128
+[WARN] 2025-12-31T01:11:53.208Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:11:53.208Z - Client Info: IP=127.0.0.1, Target=outlook.office.com:443, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[WARN] 2025-12-31T01:11:53.213Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:11:53.214Z - Client Info: IP=127.0.0.1, Target=outlook.office.com:443, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[WARN] 2025-12-31T01:11:53.215Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:11:53.215Z - Client Info: IP=127.0.0.1, Target=teams.events.data.microsoft.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:11:53.216Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:11:53.216Z - Client Info: IP=127.0.0.1, Target=outlook.office.com:443, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[WARN] 2025-12-31T01:11:53.217Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:11:53.217Z - Client Info: IP=127.0.0.1, Target=outlook.office.com:443, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T01:11:53.222Z - HTTPS CONNECT: 127.0.0.1 -> teams.events.data.microsoft.com:443
+[WARN] 2025-12-31T01:11:53.235Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:11:53.235Z - Client Info: IP=127.0.0.1, Target=go.microsoft.com:443, User-Agent=Unknown
+[INFO] 2025-12-31T01:11:53.238Z - HTTPS CONNECT: 127.0.0.1 -> go.microsoft.com:443
+[WARN] 2025-12-31T01:11:53.299Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:11:53.299Z - Client Info: IP=127.0.0.1, Target=officeclient.microsoft.com:443, User-Agent=Unknown
+[INFO] 2025-12-31T01:11:53.301Z - HTTPS CONNECT: 127.0.0.1 -> officeclient.microsoft.com:443
+[WARN] 2025-12-31T01:11:53.330Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:11:53.330Z - Client Info: IP=127.0.0.1, Target=uolgltd-my.sharepoint.com:443, User-Agent=Unknown
+[INFO] 2025-12-31T01:11:53.333Z - HTTPS CONNECT: 127.0.0.1 -> uolgltd-my.sharepoint.com:443
+[WARN] 2025-12-31T01:11:53.376Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:11:53.376Z - Client Info: IP=127.0.0.1, Target=outlook.office.com:443, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[WARN] 2025-12-31T01:11:53.425Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:11:53.427Z - Client Info: IP=127.0.0.1, Target=assets.msn.com:443, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[WARN] 2025-12-31T01:11:53.449Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:11:53.450Z - Client Info: IP=127.0.0.1, Target=odc.officeapps.live.com:443, User-Agent=Unknown
+[INFO] 2025-12-31T01:11:53.452Z - HTTPS CONNECT: 127.0.0.1 -> odc.officeapps.live.com:443
+[WARN] 2025-12-31T01:11:53.461Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:11:53.461Z - Client Info: IP=127.0.0.1, Target=go.trouter.teams.microsoft.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:11:53.475Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:11:53.475Z - Client Info: IP=127.0.0.1, Target=assets.adobedtm.com:443, User-Agent=Unknown
+[INFO] 2025-12-31T01:11:53.480Z - HTTPS CONNECT: 127.0.0.1 -> assets.adobedtm.com:443
+[WARN] 2025-12-31T01:11:53.644Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:11:53.644Z - Client Info: IP=127.0.0.1, Target=outlook.office.com:443, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[WARN] 2025-12-31T01:11:53.660Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:11:53.660Z - Client Info: IP=127.0.0.1, Target=mobile.events.data.microsoft.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:11:53.675Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:11:53.675Z - Client Info: IP=127.0.0.1, Target=assets.msn.com:443, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[WARN] 2025-12-31T01:11:57.573Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:11:57.573Z - Client Info: IP=127.0.0.1, Target=access-point.cloudmessaging.edge.microsoft.com:443, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[WARN] 2025-12-31T01:12:00.767Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:12:00.768Z - Client Info: IP=127.0.0.1, Target=augloop.office.com:443, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[WARN] 2025-12-31T01:12:02.783Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:12:02.783Z - Client Info: IP=127.0.0.1, Target=augloop.office.com:443, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[WARN] 2025-12-31T01:12:02.876Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:12:02.876Z - Client Info: IP=127.0.0.1, Target=augloop.office.com:443, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[WARN] 2025-12-31T01:12:02.926Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:12:02.926Z - Client Info: IP=127.0.0.1, Target=update.code.visualstudio.com:443, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.99.0 Chrome/132.0.6834.210 Electron/34.3.2 Safari/537.36
+[WARN] 2025-12-31T01:12:03.581Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:12:03.581Z - Client Info: IP=127.0.0.1, Target=augloop.office.com:443, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[WARN] 2025-12-31T01:12:04.013Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:12:04.013Z - Client Info: IP=127.0.0.1, Target=browser.events.data.microsoft.com:443, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[WARN] 2025-12-31T01:12:04.096Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:12:04.096Z - Client Info: IP=127.0.0.1, Target=augloop.office.com:443, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[WARN] 2025-12-31T01:12:04.270Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:12:04.271Z - Client Info: IP=127.0.0.1, Target=teams.microsoft.com:443, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T01:12:04.276Z - HTTPS CONNECT: 127.0.0.1 -> teams.microsoft.com:443
+[WARN] 2025-12-31T01:12:04.314Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:12:04.315Z - Client Info: IP=127.0.0.1, Target=loki.delve.office.com:443, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T01:12:04.354Z - HTTPS CONNECT: 127.0.0.1 -> go.trouter.teams.microsoft.com:443
+[INFO] 2025-12-31T01:12:04.609Z - HTTPS CONNECT: 127.0.0.1 -> augloop.office.com:443
+[INFO] 2025-12-31T01:12:04.639Z - HTTPS CONNECT: 127.0.0.1 -> outlook.office.com:443
+[INFO] 2025-12-31T01:12:05.003Z - HTTPS CONNECT: 127.0.0.1 -> augloop.office.com:443
+[WARN] 2025-12-31T01:12:05.288Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:12:05.289Z - Client Info: IP=127.0.0.1, Target=accounts.google.com:443, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+[WARN] 2025-12-31T01:12:05.292Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:12:05.292Z - Client Info: IP=127.0.0.1, Target=accounts.google.com:443, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+[WARN] 2025-12-31T01:12:06.897Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:12:06.897Z - Client Info: IP=127.0.0.1, Target=api.github.com:443, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.99.0 Chrome/132.0.6834.210 Electron/34.3.2 Safari/537.36
+[INFO] 2025-12-31T01:12:07.419Z - HTTPS CONNECT: 127.0.0.1 -> pub-ent-jpwe-03-t.trouter.teams.microsoft.com:443
+[INFO] 2025-12-31T01:12:07.624Z - HTTPS CONNECT: 127.0.0.1 -> teams.cloud.microsoft:443
+[INFO] 2025-12-31T01:12:09.913Z - HTTPS CONNECT: 127.0.0.1 -> pub-ent-auea-05-t.trouter.teams.microsoft.com:443
+[WARN] 2025-12-31T01:12:10.269Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:12:10.270Z - Client Info: IP=127.0.0.1, Target=uolgltd-my.sharepoint.com:443, User-Agent=Unknown
+[INFO] 2025-12-31T01:12:10.272Z - HTTPS CONNECT: 127.0.0.1 -> uolgltd-my.sharepoint.com:443
+[WARN] 2025-12-31T01:12:10.411Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:12:10.412Z - Client Info: IP=127.0.0.1, Target=uolgltd-my.sharepoint.com:443, User-Agent=Unknown
+[INFO] 2025-12-31T01:12:10.414Z - HTTPS CONNECT: 127.0.0.1 -> uolgltd-my.sharepoint.com:443
+[WARN] 2025-12-31T01:12:10.583Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:12:10.583Z - Client Info: IP=127.0.0.1, Target=uolgltd-my.sharepoint.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:12:10.584Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:12:10.584Z - Client Info: IP=127.0.0.1, Target=uolgltd-my.sharepoint.com:443, User-Agent=Unknown
+[INFO] 2025-12-31T01:12:10.585Z - HTTPS CONNECT: 127.0.0.1 -> uolgltd-my.sharepoint.com:443
+[INFO] 2025-12-31T01:12:10.585Z - HTTPS CONNECT: 127.0.0.1 -> uolgltd-my.sharepoint.com:443
+[INFO] 2025-12-31T01:12:11.083Z - HTTPS CONNECT: 127.0.0.1 -> teams.events.data.microsoft.com:443
+[WARN] 2025-12-31T01:12:11.101Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:12:11.101Z - Client Info: IP=127.0.0.1, Target=api.github.com:443, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.99.0 Chrome/132.0.6834.210 Electron/34.3.2 Safari/537.36
+[WARN] 2025-12-31T01:12:12.550Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:12:12.550Z - Client Info: IP=127.0.0.1, Target=mobile.events.data.microsoft.com:443, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.99.0 Chrome/132.0.6834.210 Electron/34.3.2 Safari/537.36
+[INFO] 2025-12-31T01:12:12.791Z - HTTPS CONNECT: 127.0.0.1 -> teams.events.data.microsoft.com:443
+[WARN] 2025-12-31T01:12:16.077Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:12:16.077Z - Client Info: IP=127.0.0.1, Target=mobile.events.data.microsoft.com:443, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.99.0 Chrome/132.0.6834.210 Electron/34.3.2 Safari/537.36
+[WARN] 2025-12-31T01:12:16.528Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:12:16.528Z - Client Info: IP=127.0.0.1, Target=edge.microsoft.com:443, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[WARN] 2025-12-31T01:12:21.907Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:12:21.908Z - Client Info: IP=127.0.0.1, Target=copilot-telemetry.githubusercontent.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:12:22.377Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:12:22.377Z - Client Info: IP=127.0.0.1, Target=clients2.google.com:443, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+[WARN] 2025-12-31T01:12:30.041Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:12:30.042Z - Client Info: IP=127.0.0.1, Target=uolgltd.sharepoint.com:443, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[WARN] 2025-12-31T01:12:30.042Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:12:30.042Z - Client Info: IP=127.0.0.1, Target=res-1.cdn.office.net:443, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[WARN] 2025-12-31T01:12:30.043Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:12:30.043Z - Client Info: IP=127.0.0.1, Target=uolgltd.sharepoint.com:443, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[WARN] 2025-12-31T01:12:33.649Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:12:33.649Z - Client Info: IP=127.0.0.1, Target=api.github.com:443, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.99.0 Chrome/132.0.6834.210 Electron/34.3.2 Safari/537.36
+[WARN] 2025-12-31T01:12:33.915Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:12:33.915Z - Client Info: IP=127.0.0.1, Target=api.github.com:443, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.99.0 Chrome/132.0.6834.210 Electron/34.3.2 Safari/537.36
+[WARN] 2025-12-31T01:12:33.951Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:12:33.951Z - Client Info: IP=127.0.0.1, Target=browser.events.data.microsoft.com:443, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[WARN] 2025-12-31T01:12:36.214Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:12:36.214Z - Client Info: IP=127.0.0.1, Target=edge.microsoft.com:443, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T01:12:36.434Z - HTTPS CONNECT: 127.0.0.1 -> config.teams.microsoft.com:443
+[WARN] 2025-12-31T01:12:46.735Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:12:46.735Z - Client Info: IP=127.0.0.1, Target=api.github.com:443, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.99.0 Chrome/132.0.6834.210 Electron/34.3.2 Safari/537.36
+[WARN] 2025-12-31T01:12:46.987Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:12:46.987Z - Client Info: IP=127.0.0.1, Target=api.github.com:443, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.99.0 Chrome/132.0.6834.210 Electron/34.3.2 Safari/537.36
+[WARN] 2025-12-31T01:12:48.346Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:12:48.346Z - Client Info: IP=127.0.0.1, Target=copilot-telemetry.githubusercontent.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:12:56.450Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:12:56.450Z - Client Info: IP=127.0.0.1, Target=api.github.com:443, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.99.0 Chrome/132.0.6834.210 Electron/34.3.2 Safari/537.36
+[WARN] 2025-12-31T01:12:56.698Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:12:56.698Z - Client Info: IP=127.0.0.1, Target=api.github.com:443, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.99.0 Chrome/132.0.6834.210 Electron/34.3.2 Safari/537.36
+[WARN] 2025-12-31T01:13:11.143Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:13:11.144Z - Client Info: IP=127.0.0.1, Target=copilot-telemetry.githubusercontent.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:13:20.870Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:13:20.870Z - Client Info: IP=127.0.0.1, Target=outlook.office.com:443, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[WARN] 2025-12-31T01:13:20.872Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:13:20.872Z - Client Info: IP=127.0.0.1, Target=outlook.office.com:443, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[WARN] 2025-12-31T01:13:20.874Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:13:20.875Z - Client Info: IP=127.0.0.1, Target=outlook.office.com:443, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[WARN] 2025-12-31T01:13:20.875Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:13:20.875Z - Client Info: IP=127.0.0.1, Target=outlook.office.com:443, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[WARN] 2025-12-31T01:13:20.875Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:13:20.875Z - Client Info: IP=127.0.0.1, Target=outlook.office.com:443, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[WARN] 2025-12-31T01:13:20.877Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:13:20.878Z - Client Info: IP=127.0.0.1, Target=outlook.office.com:443, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[WARN] 2025-12-31T01:13:20.879Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:13:20.879Z - Client Info: IP=127.0.0.1, Target=outlook.office.com:443, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[WARN] 2025-12-31T01:13:20.879Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:13:20.879Z - Client Info: IP=127.0.0.1, Target=outlook.office.com:443, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[WARN] 2025-12-31T01:13:25.328Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:13:25.329Z - Client Info: IP=127.0.0.1, Target=outlook.office.com:443, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[WARN] 2025-12-31T01:13:33.016Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:13:33.017Z - Client Info: IP=127.0.0.1, Target=outlook.office.com:443, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[WARN] 2025-12-31T01:13:33.020Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:13:33.020Z - Client Info: IP=127.0.0.1, Target=outlook.office.com:443, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[WARN] 2025-12-31T01:13:33.024Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:13:33.025Z - Client Info: IP=127.0.0.1, Target=outlook.office.com:443, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[WARN] 2025-12-31T01:13:33.836Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:13:33.836Z - Client Info: IP=127.0.0.1, Target=outlook.office.com:443, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[WARN] 2025-12-31T01:13:33.859Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:13:33.860Z - Client Info: IP=127.0.0.1, Target=outlook.office.com:443, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[WARN] 2025-12-31T01:13:33.861Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:13:33.861Z - Client Info: IP=127.0.0.1, Target=outlook.office.com:443, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[WARN] 2025-12-31T01:13:33.862Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:13:33.862Z - Client Info: IP=127.0.0.1, Target=outlook.office.com:443, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[WARN] 2025-12-31T01:13:33.863Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:13:33.863Z - Client Info: IP=127.0.0.1, Target=outlook.office.com:443, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[WARN] 2025-12-31T01:13:33.869Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:13:33.869Z - Client Info: IP=127.0.0.1, Target=outlook.office.com:443, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[WARN] 2025-12-31T01:13:33.871Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:13:33.871Z - Client Info: IP=127.0.0.1, Target=outlook.office.com:443, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[WARN] 2025-12-31T01:13:33.879Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:13:33.879Z - Client Info: IP=127.0.0.1, Target=outlook.office.com:443, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[WARN] 2025-12-31T01:13:33.880Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:13:33.880Z - Client Info: IP=127.0.0.1, Target=outlook.office.com:443, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[WARN] 2025-12-31T01:13:56.771Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:13:56.772Z - Client Info: IP=127.0.0.1, Target=api.github.com:443, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.99.0 Chrome/132.0.6834.210 Electron/34.3.2 Safari/537.36
+[WARN] 2025-12-31T01:13:57.039Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:13:57.039Z - Client Info: IP=127.0.0.1, Target=api.github.com:443, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.99.0 Chrome/132.0.6834.210 Electron/34.3.2 Safari/537.36
+[ERROR] 2025-12-31T01:13:58.159Z - Proxy socket error for teams.events.data.microsoft.com:443: read ECONNRESET
+[ERROR] 2025-12-31T01:13:59.570Z - Proxy socket error for odc.officeapps.live.com:443: read ECONNRESET
+[INFO] 2025-12-31T01:14:17.370Z - Forward proxy server started on 0.0.0.0:3128
+[INFO] 2025-12-31T01:14:24.556Z - Forward proxy server started on 0.0.0.0:3128
+[WARN] 2025-12-31T01:14:43.126Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:14:43.126Z - Client Info: IP=127.0.0.1, Target=api.github.com:443, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.99.0 Chrome/132.0.6834.210 Electron/34.3.2 Safari/537.36
+[WARN] 2025-12-31T01:14:43.376Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:14:43.377Z - Client Info: IP=127.0.0.1, Target=api.github.com:443, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.99.0 Chrome/132.0.6834.210 Electron/34.3.2 Safari/537.36
+[WARN] 2025-12-31T01:14:57.816Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:14:57.816Z - Client Info: IP=127.0.0.1, Target=copilot-telemetry.githubusercontent.com:443, User-Agent=Unknown
+[INFO] 2025-12-31T01:15:15.005Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.99.0 Chrome/132.0.6834.210 Electron/34.3.2 Safari/537.36
+[INFO] 2025-12-31T01:15:15.013Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T01:15:15.017Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T01:15:15.022Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T01:15:15.024Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+[INFO] 2025-12-31T01:15:15.026Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T01:15:15.029Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T01:15:15.033Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T01:15:15.035Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T01:15:15.036Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T01:15:15.038Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T01:15:15.039Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T01:15:15.042Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T01:15:15.044Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.99.0 Chrome/132.0.6834.210 Electron/34.3.2 Safari/537.36
+[INFO] 2025-12-31T01:15:15.047Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T01:15:15.050Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T01:15:15.053Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T01:15:15.058Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+[INFO] 2025-12-31T01:15:15.061Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T01:15:15.065Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+[INFO] 2025-12-31T01:15:15.883Z - Get PAC: Target=/proxy.pac, User-Agent=WinHttp-Autoproxy-Service/5.1
+[INFO] 2025-12-31T01:15:34.930Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.99.0 Chrome/132.0.6834.210 Electron/34.3.2 Safari/537.36
+[INFO] 2025-12-31T01:15:34.931Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.99.0 Chrome/132.0.6834.210 Electron/34.3.2 Safari/537.36
+[INFO] 2025-12-31T01:15:34.932Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T01:15:34.932Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T01:15:34.933Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T01:15:34.933Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T01:15:34.934Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T01:15:34.934Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T01:15:34.935Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T01:15:34.935Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T01:15:34.936Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T01:15:34.937Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+[INFO] 2025-12-31T01:15:34.937Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T01:15:34.938Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T01:15:34.939Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T01:15:34.940Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+[INFO] 2025-12-31T01:15:34.941Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T01:15:34.942Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T01:15:34.943Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+[INFO] 2025-12-31T01:15:34.944Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[WARN] 2025-12-31T01:15:39.904Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:15:39.905Z - Client Info: IP=127.0.0.1, Target=api.github.com:443, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.99.0 Chrome/132.0.6834.210 Electron/34.3.2 Safari/537.36
+[WARN] 2025-12-31T01:15:40.172Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:15:40.172Z - Client Info: IP=127.0.0.1, Target=api.github.com:443, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.99.0 Chrome/132.0.6834.210 Electron/34.3.2 Safari/537.36
+[WARN] 2025-12-31T01:15:54.607Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:15:54.607Z - Client Info: IP=127.0.0.1, Target=copilot-telemetry.githubusercontent.com:443, User-Agent=Unknown
+[INFO] 2025-12-31T01:16:02.603Z - Forward proxy server started on 0.0.0.0:3128
+[WARN] 2025-12-31T01:16:13.173Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:16:13.173Z - Client Info: IP=127.0.0.1, Target=filedownload.csw.lenovo.com:443, User-Agent=VantageService/4.3.96.0
+[WARN] 2025-12-31T01:16:13.818Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:16:13.818Z - Client Info: IP=127.0.0.1, Target=download.lenovo.com:443, User-Agent=TVSUWeb/2
+[INFO] 2025-12-31T01:16:13.826Z - HTTPS CONNECT: 127.0.0.1 -> download.lenovo.com:443
+[ERROR] 2025-12-31T01:16:13.900Z - Client socket error: read ECONNRESET
+[INFO] 2025-12-31T01:16:13.906Z - HTTPS CONNECT: 127.0.0.1 -> download.lenovo.com:443
+[INFO] 2025-12-31T01:16:14.286Z - Get PAC: Target=/proxy.pac, User-Agent=WinHttp-Autoproxy-Service/5.1
+[WARN] 2025-12-31T01:16:15.954Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:16:15.954Z - Client Info: IP=127.0.0.1, Target=edge.microsoft.com:443, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T01:16:16.219Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.99.0 Chrome/132.0.6834.210 Electron/34.3.2 Safari/537.36
+[INFO] 2025-12-31T01:16:16.229Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T01:16:16.233Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T01:16:16.235Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T01:16:16.239Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T01:16:16.242Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T01:16:16.247Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.99.0 Chrome/132.0.6834.210 Electron/34.3.2 Safari/537.36
+[INFO] 2025-12-31T01:16:16.250Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T01:16:16.255Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T01:16:16.256Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T01:16:16.257Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T01:16:16.262Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T01:16:16.263Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T01:16:16.264Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+[INFO] 2025-12-31T01:16:16.265Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+[INFO] 2025-12-31T01:16:16.267Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+[INFO] 2025-12-31T01:16:16.274Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T01:16:16.276Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T01:16:16.277Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T01:16:16.278Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[WARN] 2025-12-31T01:16:18.292Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:16:18.292Z - Client Info: IP=127.0.0.1, Target=copilot-telemetry.githubusercontent.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:16:20.793Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:16:20.793Z - Client Info: IP=127.0.0.1, Target=westus-0.in.applicationinsights.azure.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:16:20.794Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:16:20.794Z - Client Info: IP=127.0.0.1, Target=westus-0.in.applicationinsights.azure.com:443, User-Agent=Unknown
+[ERROR] 2025-12-31T01:16:39.837Z - Client socket error: read ECONNRESET
+[INFO] 2025-12-31T01:17:05.995Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T01:17:05.996Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T01:17:06.007Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[WARN] 2025-12-31T01:17:06.645Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:17:06.645Z - Client Info: IP=127.0.0.1, Target=umsgrpsubacc-14qguefp.ap21.sls.cloud.sap:443, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T01:17:12.287Z - HTTPS CONNECT: 127.0.0.1 -> umsgrpsubacc-14qguefp.ap21.sls.cloud.sap:443
+[INFO] 2025-12-31T01:17:12.297Z - HTTPS CONNECT: 127.0.0.1 -> umsgrpsubacc-14qguefp.ap21.sls.cloud.sap:443
+[INFO] 2025-12-31T01:17:12.556Z - HTTPS CONNECT: 127.0.0.1 -> umsgrpsubacc-14qguefp.ap21.sls.cloud.sap:443
+[INFO] 2025-12-31T01:17:12.666Z - HTTPS CONNECT: 127.0.0.1 -> ayisqegkn.accounts.cloud.sap:443
+[INFO] 2025-12-31T01:17:12.667Z - HTTPS CONNECT: 127.0.0.1 -> ayisqegkn.accounts.cloud.sap:443
+[INFO] 2025-12-31T01:17:13.075Z - HTTPS CONNECT: 127.0.0.1 -> ayisqegkn.accounts.cloud.sap:443
+[INFO] 2025-12-31T01:17:13.318Z - HTTPS CONNECT: 127.0.0.1 -> ayisqegkn.accounts.cloud.sap:443
+[INFO] 2025-12-31T01:17:13.452Z - HTTPS CONNECT: 127.0.0.1 -> ayisqegkn.accounts.cloud.sap:443
+[INFO] 2025-12-31T01:17:13.452Z - HTTPS CONNECT: 127.0.0.1 -> ayisqegkn.accounts.cloud.sap:443
+[INFO] 2025-12-31T01:17:13.453Z - HTTPS CONNECT: 127.0.0.1 -> ayisqegkn.accounts.cloud.sap:443
+[INFO] 2025-12-31T01:17:13.453Z - HTTPS CONNECT: 127.0.0.1 -> ayisqegkn.accounts.cloud.sap:443
+[INFO] 2025-12-31T01:19:24.338Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T01:19:24.338Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T01:19:24.357Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T01:20:24.746Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T01:20:24.749Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T01:20:24.761Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T01:21:38.439Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T01:21:38.440Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T01:21:38.442Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T01:21:53.497Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ReaderServices/25.1.20997 Chrome/105.0.0.0 Safari/537.36
+[INFO] 2025-12-31T01:21:53.508Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ReaderServices/25.1.20997 Chrome/105.0.0.0 Safari/537.36
+[WARN] 2025-12-31T01:23:49.816Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:23:49.817Z - Client Info: IP=127.0.0.1, Target=compsvc.delivery.autodesk.com:443, User-Agent=Unknown
+[INFO] 2025-12-31T01:23:49.819Z - HTTPS CONNECT: 127.0.0.1 -> compsvc.delivery.autodesk.com:443
+[WARN] 2025-12-31T01:23:50.875Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:23:50.875Z - Client Info: IP=127.0.0.1, Target=compsvc.delivery.autodesk.com:443, User-Agent=adhttplib-default
+[WARN] 2025-12-31T01:23:53.886Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:23:53.886Z - Client Info: IP=127.0.0.1, Target=compsvc.delivery.autodesk.com:443, User-Agent=Unknown
+[INFO] 2025-12-31T01:23:53.887Z - HTTPS CONNECT: 127.0.0.1 -> compsvc.delivery.autodesk.com:443
+[INFO] 2025-12-31T01:23:54.861Z - HTTPS CONNECT: 127.0.0.1 -> compsvc.delivery.autodesk.com:443
+[ERROR] 2025-12-31T01:23:56.532Z - Client socket error: read ECONNRESET
+[ERROR] 2025-12-31T01:23:56.533Z - Client socket error: read ECONNRESET
+[INFO] 2025-12-31T01:24:38.311Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T01:24:38.312Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T01:24:38.346Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[WARN] 2025-12-31T01:26:38.538Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:26:38.538Z - Client Info: IP=127.0.0.1, Target=westus-0.in.applicationinsights.azure.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:31:20.791Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:31:20.792Z - Client Info: IP=127.0.0.1, Target=westus-0.in.applicationinsights.azure.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:31:20.792Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:31:20.792Z - Client Info: IP=127.0.0.1, Target=westus-0.in.applicationinsights.azure.com:443, User-Agent=Unknown
+[INFO] 2025-12-31T01:35:48.154Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T01:35:48.155Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T01:35:48.405Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[WARN] 2025-12-31T01:41:36.051Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:41:36.052Z - Client Info: IP=127.0.0.1, Target=default.exp-tas.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:41:36.084Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:41:36.084Z - Client Info: IP=127.0.0.1, Target=default.exp-tas.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:41:38.555Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:41:38.556Z - Client Info: IP=127.0.0.1, Target=westus-0.in.applicationinsights.azure.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:41:39.823Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:41:39.823Z - Client Info: IP=127.0.0.1, Target=default.exp-tas.com:443, User-Agent=Unknown
+[INFO] 2025-12-31T01:46:14.352Z - Get PAC: Target=/proxy.pac, User-Agent=WinHttp-Autoproxy-Service/5.1
+[WARN] 2025-12-31T01:46:20.806Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:46:20.806Z - Client Info: IP=127.0.0.1, Target=westus-0.in.applicationinsights.azure.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:46:20.806Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:46:20.806Z - Client Info: IP=127.0.0.1, Target=westus-0.in.applicationinsights.azure.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T01:46:24.424Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T01:46:24.424Z - Client Info: IP=127.0.0.1, Target=westus-0.in.applicationinsights.azure.com:443, User-Agent=Unknown
+[INFO] 2025-12-31T02:00:36.759Z - Get PAC: Target=/proxy.pac, User-Agent=WININET Download
+[WARN] 2025-12-31T02:01:24.420Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T02:01:24.421Z - Client Info: IP=127.0.0.1, Target=westus-0.in.applicationinsights.azure.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T02:05:18.162Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T02:05:18.163Z - Client Info: IP=127.0.0.1, Target=uolgltd-my.sharepoint.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T02:05:18.167Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T02:05:18.167Z - Client Info: IP=127.0.0.1, Target=uolgltd-my.sharepoint.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T02:05:19.268Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T02:05:19.269Z - Client Info: IP=127.0.0.1, Target=uolgltd-my.sharepoint.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T02:05:21.474Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T02:05:21.474Z - Client Info: IP=127.0.0.1, Target=uolgltd-my.sharepoint.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T02:05:25.845Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T02:05:25.846Z - Client Info: IP=127.0.0.1, Target=uolgltd-my.sharepoint.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T02:05:34.583Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T02:05:34.584Z - Client Info: IP=127.0.0.1, Target=uolgltd-my.sharepoint.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T02:05:52.072Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T02:05:52.073Z - Client Info: IP=127.0.0.1, Target=uolgltd-my.sharepoint.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T02:06:27.026Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T02:06:27.026Z - Client Info: IP=127.0.0.1, Target=uolgltd-my.sharepoint.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T02:07:36.943Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T02:07:36.943Z - Client Info: IP=127.0.0.1, Target=uolgltd-my.sharepoint.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T02:09:26.290Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T02:09:26.291Z - Client Info: IP=127.0.0.1, Target=autoupdatesvc.delivery.autodesk.com:443, User-Agent=Unknown
+[INFO] 2025-12-31T02:09:26.293Z - HTTPS CONNECT: 127.0.0.1 -> autoupdatesvc.delivery.autodesk.com:443
+[WARN] 2025-12-31T02:09:27.282Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T02:09:27.282Z - Client Info: IP=127.0.0.1, Target=autoupdatesvc.delivery.autodesk.com:443, User-Agent=adhttplib-default
+[WARN] 2025-12-31T02:09:30.303Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T02:09:30.303Z - Client Info: IP=127.0.0.1, Target=autoupdatesvc.delivery.autodesk.com:443, User-Agent=Unknown
+[INFO] 2025-12-31T02:09:30.304Z - HTTPS CONNECT: 127.0.0.1 -> autoupdatesvc.delivery.autodesk.com:443
+[INFO] 2025-12-31T02:09:31.314Z - HTTPS CONNECT: 127.0.0.1 -> autoupdatesvc.delivery.autodesk.com:443
+[ERROR] 2025-12-31T02:09:32.536Z - Client socket error: read ECONNRESET
+[ERROR] 2025-12-31T02:09:32.537Z - Client socket error: read ECONNRESET
+[WARN] 2025-12-31T02:09:56.647Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T02:09:56.647Z - Client Info: IP=127.0.0.1, Target=uolgltd-my.sharepoint.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T02:11:36.064Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T02:11:36.064Z - Client Info: IP=127.0.0.1, Target=default.exp-tas.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T02:11:36.076Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T02:11:36.076Z - Client Info: IP=127.0.0.1, Target=default.exp-tas.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T02:11:39.828Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T02:11:39.828Z - Client Info: IP=127.0.0.1, Target=default.exp-tas.com:443, User-Agent=Unknown
+[INFO] 2025-12-31T02:11:40.904Z - Get PAC: Target=http://assets.cloud.techsmith.com/api/v2/assets/snagit_win_messaging_enu, User-Agent=RestSharp/105.0.1.0
+[WARN] 2025-12-31T02:11:40.905Z - Authentication failed for 127.0.0.1
+[WARN] 2025-12-31T02:14:36.217Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T02:14:36.218Z - Client Info: IP=127.0.0.1, Target=uolgltd-my.sharepoint.com:443, User-Agent=Unknown
+[INFO] 2025-12-31T02:16:14.377Z - Get PAC: Target=/proxy.pac, User-Agent=WinHttp-Autoproxy-Service/5.1
+[WARN] 2025-12-31T02:16:24.446Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T02:16:24.446Z - Client Info: IP=127.0.0.1, Target=westus-0.in.applicationinsights.azure.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T02:16:25.706Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T02:16:25.706Z - Client Info: IP=127.0.0.1, Target=westus-0.in.applicationinsights.azure.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T02:23:55.220Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T02:23:55.221Z - Client Info: IP=127.0.0.1, Target=uolgltd-my.sharepoint.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T02:31:25.712Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T02:31:25.712Z - Client Info: IP=127.0.0.1, Target=westus-0.in.applicationinsights.azure.com:443, User-Agent=Unknown
+[INFO] 2025-12-31T02:33:42.272Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T02:33:42.273Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T02:33:42.278Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[WARN] 2025-12-31T02:34:50.363Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T02:34:50.363Z - Client Info: IP=127.0.0.1, Target=uolgltd-my.sharepoint.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T02:41:36.068Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T02:41:36.068Z - Client Info: IP=127.0.0.1, Target=default.exp-tas.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T02:41:36.081Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T02:41:36.081Z - Client Info: IP=127.0.0.1, Target=default.exp-tas.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T02:41:39.840Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T02:41:39.840Z - Client Info: IP=127.0.0.1, Target=default.exp-tas.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T02:45:46.272Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T02:45:46.272Z - Client Info: IP=127.0.0.1, Target=uolgltd-my.sharepoint.com:443, User-Agent=Unknown
+[INFO] 2025-12-31T02:46:14.399Z - Get PAC: Target=/proxy.pac, User-Agent=WinHttp-Autoproxy-Service/5.1
+[WARN] 2025-12-31T02:46:25.719Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T02:46:25.719Z - Client Info: IP=127.0.0.1, Target=westus-0.in.applicationinsights.azure.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T02:46:27.515Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T02:46:27.516Z - Client Info: IP=127.0.0.1, Target=westus-0.in.applicationinsights.azure.com:443, User-Agent=Unknown
+[WARN] 2025-12-31T02:56:42.425Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T02:56:42.426Z - Client Info: IP=127.0.0.1, Target=uolgltd-my.sharepoint.com:443, User-Agent=Unknown
+[INFO] 2025-12-31T03:00:36.530Z - Get PAC: Target=/proxy.pac, User-Agent=WININET Download
+[WARN] 2025-12-31T03:01:27.525Z - Authentication failed for 127.0.0.1
+[INFO] 2025-12-31T03:01:27.526Z - Client Info: IP=127.0.0.1, Target=westus-0.in.applicationinsights.azure.com:443, User-Agent=Unknown
+[INFO] 2025-12-31T03:05:42.593Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+[INFO] 2025-12-31T03:07:19.424Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.99.0 Chrome/132.0.6834.210 Electron/34.3.2 Safari/537.36
+[INFO] 2025-12-31T03:07:19.426Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T03:07:19.426Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.99.0 Chrome/132.0.6834.210 Electron/34.3.2 Safari/537.36
+[INFO] 2025-12-31T03:07:19.427Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T03:07:19.427Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T03:07:19.427Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T03:07:19.428Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T03:07:19.428Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T03:07:19.429Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T03:07:19.429Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T03:07:19.430Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T03:07:19.430Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+[INFO] 2025-12-31T03:07:19.431Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T03:07:19.431Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T03:07:19.433Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+[INFO] 2025-12-31T03:07:19.438Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+[INFO] 2025-12-31T03:07:19.440Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T03:07:19.441Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T03:07:19.442Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T03:07:19.442Z - Get PAC: Target=/proxy.pac, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+[INFO] 2025-12-31T03:07:23.684Z - Shutting down proxy server...
